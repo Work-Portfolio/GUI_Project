@@ -1,4 +1,8 @@
-team04-project09
+GUI-Project
+
+We were tasked with creating a GUI interface with graphical information from a CSV file that contained a list of countries and 
+their cellular data usage over several years. The Java Swing package was used and the main class is GraphView.java
+
 
 Brief description of submitted files:
 
